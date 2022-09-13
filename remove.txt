@@ -1,0 +1,4 @@
+device/xiaomi/veux
+vendor/xiaomi/veux
+kernel/xiaomi/veux
+device/xiaomi/veux-kernel
